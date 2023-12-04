@@ -1,2 +1,14 @@
+<<<<<<< HEAD
 Lohe Lohe Lohe 
 oke
+=======
+Lohe Lohe Lohe
+
+
+
+AAAAAAAAAAAAAAAAAA
+
+yey
+
+ini bagian branch
+>>>>>>> 5da4318d2dc58ff29aa2eb14c95d897632bfb1af
